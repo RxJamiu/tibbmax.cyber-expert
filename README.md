@@ -1,2 +1,2 @@
 # tibbmax.cyber-expert
-A portfolio-The link to Innovations, Cybersecurity and Health
+The link to Innovations, Cybersecurity, Web Development and Health
